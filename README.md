@@ -1,4 +1,4 @@
 hello-world
 ===========
 
-just for first try of github
+大家好，我在学习使用GITHUB
